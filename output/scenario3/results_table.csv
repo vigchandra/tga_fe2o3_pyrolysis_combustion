@@ -1,0 +1,19 @@
+,Model,Compound,Train Accuracy,Test Accuracy
+,Linear Regression,tbp_fe2o3,0.587898614770594,0.33879705363139445
+,Linear Regression,tbp,0.5724335163641834,0.6183832810707369
+,Partial Least Squares (n=2),tbp_fe2o3,0.5878932796684886,0.3348708832913434
+,Partial Least Squares (n=2),tbp,0.5724174287439565,0.61848292104417
+,Partial Least Squares (n=3),tbp_fe2o3,0.587898614770594,0.33879705363139434
+,Partial Least Squares (n=3),tbp,0.5724335163641834,0.6183832810707369
+,Random Forest Regression (max_depth = 2),tbp_fe2o3,0.9572508473981879,0.5718557655165911
+,Random Forest Regression (max_depth = 2),tbp,0.9838010887186361,0.9718558982301776
+,Random Forest Regression (max_depth = 5),tbp_fe2o3,0.9845121697433262,0.5157365846186082
+,Random Forest Regression (max_depth = 5),tbp,0.9983136797616111,0.9915479486591997
+,Random Forest Regression (max_depth = 7),tbp_fe2o3,0.9908938751175894,0.4728784053489645
+,Random Forest Regression (max_depth = 7),tbp,0.9999044209703338,0.9878472497278803
+,Random Forest Regression (max_depth = 10),tbp_fe2o3,0.9959237174726706,0.4722709646364629
+,Random Forest Regression (max_depth = 10),tbp,0.9999782128931971,0.9884008972154008
+,SVR RBF Kernel,tbp_fe2o3,0.915596726380807,0.6113315425998884
+,SVR RBF Kernel,tbp,0.9164392142140445,0.9181278001644678
+,Gradient Boost Regressor,tbp_fe2o3,0.9900838238701334,0.500274976756005
+,Gradient Boost Regressor,tbp,0.999584436494464,0.9864630801731741
